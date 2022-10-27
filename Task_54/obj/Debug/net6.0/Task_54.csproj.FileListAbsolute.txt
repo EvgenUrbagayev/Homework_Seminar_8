@@ -1,0 +1,15 @@
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\bin\Debug\net6.0\Task_54.exe
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\bin\Debug\net6.0\Task_54.deps.json
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\bin\Debug\net6.0\Task_54.runtimeconfig.json
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\bin\Debug\net6.0\Task_54.dll
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\bin\Debug\net6.0\Task_54.pdb
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\Task_54.csproj.AssemblyReference.cache
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\Task_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfoInputs.cache
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfo.cs
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\Task_54.csproj.CoreCompileInputs.cache
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\Task_54.dll
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\refint\Task_54.dll
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\Task_54.pdb
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\Task_54.genruntimeconfig.cache
+C:\Users\мвидео\Desktop\Мое обучение\ДЗ\C#\Семинар_8\Task_54\obj\Debug\net6.0\ref\Task_54.dll
